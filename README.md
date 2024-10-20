@@ -9,7 +9,7 @@ Welcome to **Martial Arts Academy**, an online learning platform where users can
 - User authentication and personalized learning paths
 - Collaborative community for martial arts enthusiasts
 
-![Martial Arts Academy](file:///C:/Users/Hp/Downloads/DALL%C2%B7E%202024-10-20%2022.02.09%20-%20A%20person%20in%20a%20neutral%20stance%20for%20martial%20arts%20training,%20feet%20shoulder-width%20apart,%20knees%20slightly%20bent,%20with%20fists%20clenched%20and%20hands%20raised%20to%20a%20guar.webp) <!-- You can replace this URL with your project image URL -->
+![Martial Arts Academy]() <!-- You can replace this URL with your project image URL -->
 
 ## 🛠️ Tech Stack
 - **React** with functional components and hooks
